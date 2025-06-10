@@ -30,7 +30,9 @@
   - ```npm i```
   - ```npm test```
 
-## Newman Report Screenshots
+## Newman Report Screenshots:
+![image alt](https://github.com/abhishek11das/dmoney-api-automation/blob/1c3461a583b8ac77e7a6c5d9f68fba3f591c5882/HTML%20Report.png)
+![image alt]
 
 
 ## API Documentation
