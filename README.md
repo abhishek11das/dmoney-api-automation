@@ -39,7 +39,10 @@
 https://documenter.getpostman.com/view/45682289/2sB2x5Fs5y
 
 ## Test Case
+https://docs.google.com/spreadsheets/d/1KxQGgrvW5NZyr_HhRuWFoH0Oc9CLaOnC/edit?usp=sharing&ouid=105412337074703854140&rtpof=true&sd=true
+
 ## Bug Report
+https://docs.google.com/spreadsheets/d/1tD_cPsykKF9ZzoXbWb63J4zalIRzt3nn/edit?usp=sharing&rtpof=true&sd=true
 
 
 ###### Caution: You must have the .env file to run this project.
